@@ -1,1 +1,1 @@
-# EspressoResource
+Espresso FPGA Resource Occupancy
